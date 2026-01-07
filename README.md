@@ -203,7 +203,7 @@ npm run test:e2e       # E2E tests with Playwright
 |----------|----------|-------------|
 | `OPENAI_API_KEY` | Yes | OpenAI API key for layout suggestions |
 | `LOG_LEVEL` | No | Logging level (default: INFO) |
-| `MAX_UPLOAD_SIZE_MB` | No | Maximum upload size (default: 50) |
+| `MAX_UPLOAD_SIZE_MB` | o | Maximum upload size (default: 50) |
 
 ## Note on API keys & costs
 
