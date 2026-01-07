@@ -1,5 +1,9 @@
 # Retail Media Creative Tool
 
+This project was developed as part of the Retail Media Creative Tool Hackathon.
+
+This project was developed to demonstrate and enforce retailer-specific creative guidelines (notably Tesco's Appendix B rules) — it implements validation and layout rules to help produce Tesco-compliant creatives.
+
 > 🎨 AI-powered web application for creating retailer-compliant, brand-safe creatives
 
 [![CI/CD Pipeline](https://github.com/your-org/retail-creative/actions/workflows/ci.yml/badge.svg)](https://github.com/your-org/retail-creative/actions/workflows/ci.yml)
