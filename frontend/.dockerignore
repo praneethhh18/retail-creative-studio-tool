@@ -1,0 +1,31 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Testing
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+nginx.conf
+
+# Documentation
+*.md
+
+# Misc
+*.log
+.env*
